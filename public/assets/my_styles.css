@@ -3,6 +3,11 @@ body{
   padding-top: 64px;
 }
 
+.who-delivers {
+  background-image url("/assets/images/main-hero.jpg");
+}
+
+
 .navbar-brand{
 font-family: 'Passion One', cursive;
 }
