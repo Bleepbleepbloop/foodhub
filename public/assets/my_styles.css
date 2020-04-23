@@ -13,7 +13,8 @@ font-family: 'Passion One', cursive;
 }
 
 .download-apps {
-  background: url("images/main-hero.jpg") no-repeat center center;
+  /* background: url("images/main-hero.jpg") no-repeat center center; */
+  background: url("images/main-hero.jpg")
   background-size: cover;
 }
 
