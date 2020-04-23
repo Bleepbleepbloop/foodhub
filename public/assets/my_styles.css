@@ -12,6 +12,11 @@ font-family: 'Passion One', cursive;
   background-size: cover;
 }
 
+.download-apps {
+  background: url("images/download-hero.jpg") no-repeat center center;
+  background-size: cover;
+}
+
 .py-6 {
   padding-top: 150px;
   padding-bottom: 150px;
