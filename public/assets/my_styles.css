@@ -4,7 +4,8 @@ body{
 }
 
 .who-delivers {
-  background-image url("/assets/images/main-hero.jpg");
+  background: url("images/main-hero.jpg") no-repeat center center;
+  background-size: cover;
 }
 
 
